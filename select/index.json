@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Stargaze",
+  "base_artist": "SixTONES",
+  "createdAt": "2026-02-16T07:54:41.080940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stargaze",
+      "artist": "Xavier Rudd",
+      "has_synced": true,
+      "path": "select/01_Stargaze_Xavier_Rudd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stargaze",
+      "artist": "Thurisaz",
+      "has_synced": true,
+      "path": "select/02_Stargaze_Thurisaz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stargaze",
+      "artist": "Lo ki",
+      "has_synced": false,
+      "path": "select/03_Stargaze_Lo_ki.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stargaze",
+      "artist": "UNDEAD CORPORATION",
+      "has_synced": true,
+      "path": "select/04_Stargaze_UNDEAD_CORPORATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "stargaze",
+      "artist": "MEANFACE EARL",
+      "has_synced": true,
+      "path": "select/05_stargaze_MEANFACE_EARL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stargaze",
+      "artist": "UNDEAD CORPORATION DOUJIN WORKS",
+      "has_synced": true,
+      "path": "select/06_Stargaze_UNDEAD_CORPORATION_DOUJIN_WORKS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stargaze",
+      "artist": "ALISN",
+      "has_synced": true,
+      "path": "select/07_Stargaze_ALISN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stargaze Intro (Maniac)",
+      "artist": "BIGBABYGUCCI",
+      "has_synced": true,
+      "path": "select/08_Stargaze_Intro_(Maniac)_BIGBABYGUCCI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stargaze",
+      "artist": "SixTONES",
+      "has_synced": false,
+      "path": "select/pl_01_Stargaze_SixTONES.txt"
+    }
+  ]
+}
